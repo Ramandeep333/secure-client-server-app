@@ -62,4 +62,5 @@ Database (MongoDB)
 
 ---
 
-## Project Structure
+## Conclusion
+This project demonstrates a secure client-server application implementing authentication, authorization, validation, and protection against common web vulnerabilities.
